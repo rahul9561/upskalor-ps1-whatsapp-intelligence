@@ -86,7 +86,7 @@ The system generates a **Conversation Intelligence Report** containing:
 ## 🚀 Setup Instructions
 
 ```bash
-git clone https://github.com/<your-username>/upskalor-ps1-whatsapp-intelligence.git
+git clone https://github.com/rahul9561/upskalor-ps1-whatsapp-intelligence.git
 cd upskalor-ps1-whatsapp-intelligence
 pip install -r requirements.txt
 
