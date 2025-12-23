@@ -75,7 +75,7 @@ The system generates a **Conversation Intelligence Report** containing:
 ## 🛠️ Tech Stack
 
 - Python
-- FastAPI / Flask
+- FastAPI (Python)
 - Scikit-learn
 - OpenCV
 - WhatsApp Cloud API / Twilio
